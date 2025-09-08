@@ -9,25 +9,25 @@ This project demonstrates the application of fundamental and advanced clustering
 ## Algorithms Implemented
 This project provides a comprehensive comparison of both fundamental and advanced clustering techniques:
 
-### Centroid-Based Methods
+#### Centroid-Based Methods
 
 - **K-Means**: A classic centroid-based algorithm that partitions data into K distinct, spherical clusters by minimizing within-cluster variance.
 
-### Density-Based Methods
+#### Density-Based Methods
 
 - **DBSCAN** (Density-Based Spatial Clustering of Applications with Noise): Identifies arbitrary shaped clusters and detects outliers based on spatial density connectivity.
 
 - **OPTICS** (Ordering Points To Identify the Clustering Structure): An advanced density-based method that creates a reachability plot for variable density cluster analysis.
 
-### Hierarchical Methods
+#### Hierarchical Methods
 
 - **Agglomerative Hierarchical Clustering**: Builds a hierarchy of clusters using a bottom-up approach, merging similar clusters at each step.
 
-### Distribution-Based Methods
+#### Distribution-Based Methods
 
 - **Affinity Propagation**: Creates clusters by passing messages between data points to identify exemplars that best represent cluster centers.
 
-### Advanced Techniques
+#### Advanced Techniques
 
 - **Mean Shift Clustering** : A non-parametric technique that locates and adapts centroids based on kernel density estimation.
 
@@ -49,7 +49,7 @@ This project provides a comprehensive comparison of both fundamental and advance
 ## Results and Analysis
 The comparative analysis reveals distinct performance characteristics for each algorithm on the synthetic blob dataset:
 
-### Outstanding Performance of K-Means
+#### Outstanding Performance of K-Means
 The K-Means algorithm demonstrated exceptional performance on this dataset, achieving near-perfect clustering results. This was expected due to the inherent properties of our synthetic data:
 
 - High Accuracy: K-Means correctly identified all three distinct spherical clusters with minimal misclassification.
@@ -60,7 +60,11 @@ The K-Means algorithm demonstrated exceptional performance on this dataset, achi
 
 - Visualization: The K-Means clustering plot shows three distinct, well-separated clusters with centroids positioned at the core of each blob, demonstrating the algorithm's effectiveness for spherical, evenly-distributed data.
 
-#### Comparative Insights
+##### Comparative Insights
+
+<img width="1585" height="525" alt="newplot (31)" src="https://github.com/user-attachments/assets/cf2a19ab-6d90-4157-bf2b-928fe72b88ff" />
+
+
 While K-Means excelled, other algorithms showed varying results:
 
 - DBSCAN and OPTICS effectively identified clusters but struggled with parameter tuning for this specific configuration
