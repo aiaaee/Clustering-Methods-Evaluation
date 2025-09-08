@@ -46,10 +46,10 @@ This project provides a comprehensive comparison of both fundamental and advance
 - Dataset: Synthetic data generated via `sklearn.datasets.make_blobs`
 
 
-** Results and Analysis
+## Results and Analysis
 The comparative analysis reveals distinct performance characteristics for each algorithm on the synthetic blob dataset:
 
-*** Outstanding Performance of K-Means
+### Outstanding Performance of K-Means
 The K-Means algorithm demonstrated exceptional performance on this dataset, achieving near-perfect clustering results. This was expected due to the inherent properties of our synthetic data:
 
 - High Accuracy: K-Means correctly identified all three distinct spherical clusters with minimal misclassification.
@@ -60,7 +60,7 @@ The K-Means algorithm demonstrated exceptional performance on this dataset, achi
 
 - Visualization: The K-Means clustering plot shows three distinct, well-separated clusters with centroids positioned at the core of each blob, demonstrating the algorithm's effectiveness for spherical, evenly-distributed data.
 
-**** Comparative Insights
+#### Comparative Insights
 While K-Means excelled, other algorithms showed varying results:
 
 - DBSCAN and OPTICS effectively identified clusters but struggled with parameter tuning for this specific configuration
