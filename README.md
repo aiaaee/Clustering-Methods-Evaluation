@@ -32,3 +32,16 @@ This project provides a comprehensive comparison of both fundamental and advance
 - **Mean Shift Clustering** : A non-parametric technique that locates and adapts centroids based on kernel density estimation.
 
 - **Spectral Clustering**: Utilizes graph theory and eigenvalues of similarity matrices to perform dimensionality reduction before clustering.
+
+## Tech Stack
+
+- Language: Python 3
+- Libraries:
+  
+  - scikit-learn (for algorithms and dataset generation)
+
+  - matplotlib, seaborn (for data visualization)
+
+  - numpy, pandas (for data manipulation)
+
+- Dataset: Synthetic data generated via sklearn.datasets.make_blobs
