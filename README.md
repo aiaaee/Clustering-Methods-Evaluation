@@ -11,7 +11,7 @@ This project provides a comprehensive comparison of both fundamental and advance
 
 ### Centroid-Based Methods
 
-_K-Means_: A classic centroid-based algorithm that partitions data into K distinct, spherical clusters by minimizing within-cluster variance.
+- **K-Means**: A classic centroid-based algorithm that partitions data into K distinct, spherical clusters by minimizing within-cluster variance.
 
 ### Density-Based Methods
 
