@@ -10,7 +10,7 @@ This project demonstrates the application of fundamental and advanced clustering
 This project provides a comprehensive comparison of both fundamental and advanced clustering techniques:
 
 ### Centroid-Based Methods
-*K-Means*: A classic centroid-based algorithm that partitions data into K distinct, spherical clusters by minimizing within-cluster variance.
+_K-Means_: A classic centroid-based algorithm that partitions data into K distinct, spherical clusters by minimizing within-cluster variance.
 
 ###Density-Based Methods
 *DBSCAN (Density-Based Spatial Clustering of Applications with Noise)*: Identifies arbitrary shaped clusters and detects outliers based on spatial density connectivity.
