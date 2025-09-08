@@ -15,20 +15,20 @@ This project provides a comprehensive comparison of both fundamental and advance
 
 ### Density-Based Methods
 
-_DBSCAN_ (Density-Based Spatial Clustering of Applications with Noise)*: Identifies arbitrary shaped clusters and detects outliers based on spatial density connectivity.
+- **DBSCAN** (Density-Based Spatial Clustering of Applications with Noise): Identifies arbitrary shaped clusters and detects outliers based on spatial density connectivity.
 
-_OPTICS_ (Ordering Points To Identify the Clustering Structure)*: An advanced density-based method that creates a reachability plot for variable density cluster analysis.
+- **OPTICS** (Ordering Points To Identify the Clustering Structure): An advanced density-based method that creates a reachability plot for variable density cluster analysis.
 
 ### Hierarchical Methods
 
-_Agglomerative Hierarchical Clustering_: Builds a hierarchy of clusters using a bottom-up approach, merging similar clusters at each step.
+- **Agglomerative Hierarchical Clustering**: Builds a hierarchy of clusters using a bottom-up approach, merging similar clusters at each step.
 
 ### Distribution-Based Methods
 
-_Affinity Propagation_: Creates clusters by passing messages between data points to identify exemplars that best represent cluster centers.
+- **Affinity Propagation**: Creates clusters by passing messages between data points to identify exemplars that best represent cluster centers.
 
 ### Advanced Techniques
 
-_Mean Shift Clustering_: A non-parametric technique that locates and adapts centroids based on kernel density estimation.
+- **Mean Shift Clustering** : A non-parametric technique that locates and adapts centroids based on kernel density estimation.
 
-_Spectral Clustering_: Utilizes graph theory and eigenvalues of similarity matrices to perform dimensionality reduction before clustering.
+- **Spectral Clustering**: Utilizes graph theory and eigenvalues of similarity matrices to perform dimensionality reduction before clustering.
