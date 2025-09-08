@@ -35,13 +35,12 @@ This project provides a comprehensive comparison of both fundamental and advance
 
 ## Tech Stack
 
-- Language: Python 3
 - Libraries:
   
-  - scikit-learn (for algorithms and dataset generation)
+  - Scikit-learn (for algorithms and dataset generation)
 
-  - matplotlib, seaborn (for data visualization)
+  - Matplotlib, Seaborn (for data visualization)
 
-  - numpy, pandas (for data manipulation)
+  - Numpy, Pandas (for data manipulation)
 
-- Dataset: Synthetic data generated via sklearn.datasets.make_blobs
+- Dataset: Synthetic data generated via `sklearn.datasets.make_blobs`
