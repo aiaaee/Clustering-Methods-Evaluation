@@ -44,3 +44,9 @@ This project provides a comprehensive comparison of both fundamental and advance
   - Numpy, Pandas (for data manipulation)
 
 - Dataset: Synthetic data generated via `sklearn.datasets.make_blobs`
+
+
+## Results
+The project generates a series of plots showing:
+
+The original unlabeled blob dataset and the clusters found by each algorithm. this allows for a direct visual comparison of the strengths and weaknesses of each method, especially in relation to cluster shape, density, and noise handling.
