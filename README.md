@@ -13,7 +13,7 @@ This project provides a comprehensive comparison of both fundamental and advance
 
 _K-Means_: A classic centroid-based algorithm that partitions data into K distinct, spherical clusters by minimizing within-cluster variance.
 
-###Density-Based Methods
+### Density-Based Methods
 
 _DBSCAN_ (Density-Based Spatial Clustering of Applications with Noise)*: Identifies arbitrary shaped clusters and detects outliers based on spatial density connectivity.
 
