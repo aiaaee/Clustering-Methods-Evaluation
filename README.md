@@ -6,7 +6,7 @@ A comprehensive Python project that implements and compares the performance of v
 ## Overview
 This project demonstrates the application of fundamental and advanced clustering techniques to identify groups and patterns within multidimensional synthetic data. It serves as an excellent educational resource for understanding how different clustering algorithms behave under controlled conditions.
 
-## Algorithms Implemented
+## Algorithms Implemented 
 This project provides a comprehensive comparison of both fundamental and advanced clustering techniques:
 
 #### Centroid-Based Methods
